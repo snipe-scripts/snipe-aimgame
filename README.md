@@ -4,7 +4,7 @@
 
 ```lua
 local config = {
-    initializingTimer= 5, -- in seconds before the game starts
+    initializingTimer= 2, -- in seconds before the game starts
     gameCountDownTime= 15, --in seconds how much time they have to complete the game
     totalCorrectClicksAllowed= 3, -- total number of correct clicks required to win
     totalWrongClicksAllowed= 2, -- total number of wrong click they can do before losing
@@ -27,7 +27,7 @@ end
 ```lua
 RegisterCommand("mini", function()
     local config = {
-        initializingTimer= 5, -- in seconds before the game starts
+        initializingTimer= 2, -- in seconds before the game starts
         gameCountDownTime= 15, --in seconds how much time they have to complete the game
         totalCorrectClicksAllowed= 3, -- total number of correct clicks required to win
         totalWrongClicksAllowed= 2, -- total number of wrong click they can do before losing
