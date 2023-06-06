@@ -5,7 +5,7 @@
 
 ## How to download
 
-- Download the resource from [here](https://github.com/snipe-scripts/snipe-aimgame)
+- Download the resource from [here](https://github.com/snipe-scripts/snipe-aimgame/archive/refs/heads/master.zip)
 - If it has `-master` in the name remove that
 - Put it in your resources folder
 - Add it to your server.cfg
