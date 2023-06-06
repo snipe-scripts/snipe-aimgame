@@ -1,5 +1,8 @@
 # Aim Minigame
 
+# Support - https://discord.gg/VGYkkAYVv2
+# More Work By me - https://snipe.tebex.io/
+
 ## How to use
 
 ```lua
