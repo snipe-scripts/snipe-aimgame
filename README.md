@@ -3,6 +3,14 @@
 # Support - https://discord.gg/VGYkkAYVv2
 # More Work By me - https://snipe.tebex.io/
 
+## How to download
+
+- Download the resource from [here](https://github.com/snipe-scripts/snipe-aimgame)
+- If it has `-master` in the name remove that
+- Put it in your resources folder
+- Add it to your server.cfg
+- Start the server
+
 ## How to use
 
 ```lua
