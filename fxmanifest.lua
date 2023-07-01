@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Admin Menu Script'
-version '2.8.0'
+description 'Aim Minigame Script'
+version '1.0.0'
 author 'Snipe'
 
 lua54 'yes'
