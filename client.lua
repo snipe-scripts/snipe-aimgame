@@ -1,4 +1,6 @@
-
+-----------------For support, scripts, and more----------------
+--------------- https://discord.gg/VGYkkAYVv2  -------------
+---------------------------------------------------------------
 
 local result = false
 local NUI_Focus = false
